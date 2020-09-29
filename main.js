@@ -41,6 +41,7 @@ Keyboard.RIGHT = "ArrowRight";
 Keyboard.UP = "ArrowUp";
 Keyboard.DOWN = "ArrowDown";
 Keyboard.ESCAPE = "Escape";
+Keyboard.SPACE = "Space";
 
 
 Keyboard._keys = {};
