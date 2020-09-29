@@ -40,9 +40,8 @@ Keyboard.LEFT = "ArrowLeft";
 Keyboard.RIGHT = "ArrowRight";
 Keyboard.UP = "ArrowUp";
 Keyboard.DOWN = "ArrowDown";
-Keyboard.INTERACT = "Space";
-Keyboard.INVENTORY = "KeyI";
-Keyboard.PLANT = "KeyP";
+Keyboard.ESCAPE = "Escape";
+
 
 Keyboard._keys = {};
 
